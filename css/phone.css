@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+.container {
+  display: flex;
+}
+.header {
+  height: 100vh;
+  width: 768px;
+  background-color: black;
+}
+
+.guide {
+  width: 342px;
+  height: 100%;
+  position: absolute;
+  z-index: 0;
+  top: 0px;
+  background-color: #ee3338;
+}

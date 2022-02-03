@@ -1,0 +1,8 @@
+container
+1440
+
+cutter
+  - 24*3
+  - 72 
+columns
+  - max 342
